@@ -51,6 +51,8 @@ body{
     justify-content: flex-end;
     align-items: flex-end;
     color: rgb(255, 255, 255);
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .result h1{
